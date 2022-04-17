@@ -24,7 +24,7 @@ content: ["*"],
 ```
 ## 5. write this command
 ```
-npx tailwindcss -i main.css -o style.css
+npx tailwindcss -i main.css -o style.css --watch
 ```
 
 # Enjoy!! Happy Coding
